@@ -7,7 +7,7 @@
 まずはこのリポジトリをクローンしてください。
 
 ```zsh
-git clone 
+git clone https://github.com/JustCat3456/Tex_to_png
 ```
 
 次に、以下のコマンドを実行してください。
