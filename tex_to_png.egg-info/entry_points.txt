@@ -1,0 +1,2 @@
+[console_scripts]
+tex2png = tex_to_png:main

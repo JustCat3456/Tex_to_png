@@ -1,0 +1,7 @@
+setup.py
+tex_to_png.egg-info/PKG-INFO
+tex_to_png.egg-info/SOURCES.txt
+tex_to_png.egg-info/dependency_links.txt
+tex_to_png.egg-info/entry_points.txt
+tex_to_png.egg-info/requires.txt
+tex_to_png.egg-info/top_level.txt

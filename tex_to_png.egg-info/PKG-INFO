@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: tex_to_png
+Version: 0.1.0
+Summary: Converts LaTeX code to PNG image
+Requires-Dist: matplotlib
+Requires-Dist: IPython
